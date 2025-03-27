@@ -13,7 +13,8 @@ View the timetable online:
 [https://timetable-ebon-five.vercel.app/](https://timetable-ebon-five.vercel.app/)
 
 ## Screenshot
-[![Timetable Preview](https://i.postimg.cc/Ghd2DmJt/20250319-204747.jpg)](https://postimg.cc/F1CN5m6X)
+[![Timetable Preview](https://i.postimg.cc/Ghd2DmJ![IYF TIMETABLE ASSIGNMENT BY ANTONYMUTUA](https://github.com/user-attachments/assets/b06da968-59d6-4587-8dd0-5c93f3836172)
+t/)](https://postimg.cc/F1CN5m6X)
 
 ## How to Use
 - Open `index.html` in any web browser to view locally.
